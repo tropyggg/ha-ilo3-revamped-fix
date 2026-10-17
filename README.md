@@ -1,6 +1,6 @@
 <img src="https://github.com/tropyggg/ha-ilo3-revamped-fix/blob/main/ha-ilo3-revamped-fix/icon.png" width="150" height="150" alt="BG-ALERT за Home Assistant">
 
-# HA iLo3 Revamped Fix
+# HA iLO3 Revamped Fix
 This Home Assistant add-on is a specialized secure web proxy designed specifically to enable seamless compatibility with the ha-hp_ilo-revamped integration.
 
 The Problem It Solves:
