@@ -7,7 +7,7 @@ arch:
   - amd64
 init: false
 options:
-  ilo_ip: "192.168.1.123"
+  ilo_ip: "192.168.1.125"
 schema:
   ilo_ip: str
 ports:
