@@ -20,5 +20,5 @@ The add-on isolates the outdated protocols inside a secure Docker container mana
 Аддонът изолира остарелите протоколи в защитен Docker контейнер, управляван от Nginx. Той приема съвременни и сигурни HTTPS заявки от Home Assistant на порт 7195, превежда ги в движение и ги изпраща към физическото iLO 3 по чист HTTP протокол на порт 80. По този начин се заобикалят всички SSL грешки, а интеграцията получава чист и надежден достъп до всички хардуерни сензори (температури, вентилатори, захранвания) и бутони за управление.
 
 <a href="https://www.buymeacoffee.com/tropy">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40px" width="150px">
+  <img src="https://github.com/tropyggg/ha-ilo3-revamped-fix/blob/main/ha-ilo3-revamped-fix/logo.png" alt="Buy Me a Coffee" height="40px" width="150px">
 </a>
