@@ -1,5 +1,4 @@
 ![Logo][screenshot]
-<img src="screenshot" width="300" alt="Logo"/>
 
 # HA iLO3 Revamped Fix
 This Home Assistant add-on is a specialized secure web proxy designed specifically to enable seamless compatibility with the ha-hp_ilo-revamped(https://github.com/mx5gr/ha-hp_ilo-revamped) integration.
@@ -10,6 +9,4 @@ This Home Assistant add-on is a specialized secure web proxy designed specifical
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40px" width="150px">
 </a>
 
-<img src="screenshot" width="25" />
-
-[screenshot]: https://raw.githubusercontent.com/tropyggg/ha-ilo3-revamped-fix/refs/heads/main/logo.png#width=20px
+[screenshot]: https://raw.githubusercontent.com/tropyggg/ha-ilo3-revamped-fix/refs/heads/main/images/logo75x75.png
