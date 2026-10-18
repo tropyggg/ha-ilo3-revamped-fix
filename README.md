@@ -1,4 +1,3 @@
-<img src="https://github.com/tropyggg/ha-ilo3-revamped-fix/blob/b336c513f249d1ff4461c3d45a83de9e431ef3eb/logo.png" width="150" height="150" alt="Error">
 
 ![Logo][screenshot]
 
