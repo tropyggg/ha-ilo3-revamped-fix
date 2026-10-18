@@ -10,4 +10,5 @@ This Home Assistant add-on is a specialized secure web proxy designed specifical
 <a href="https://www.buymeacoffee.com/tropy">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40px" width="150px">
 </a>
+
 [screenshot]: https://github.com/hassio-addons/app-appdaemon/raw/main/images/screenshot.png
