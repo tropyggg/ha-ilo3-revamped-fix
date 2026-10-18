@@ -1,6 +1,3 @@
-
-![Logo](https://github.com/tropyggg/ha-ilo3-revamped-fix/blob/79414568e77da46300fb42f6b11fd671a7261295/ha-ilo3-revamped-fix/logo.png)
-
 # HA iLO3 Revamped Fix
 This Home Assistant add-on is a specialized secure web proxy designed specifically to enable seamless compatibility with the ha-hp_ilo-revamped(https://github.com/mx5gr/ha-hp_ilo-revamped) integration.
 
