@@ -13,5 +13,5 @@ schema:
   ilo_ip: str
 ports:
   443/tcp: 7195
-#funding:
-#  - https://buymeacoffee.com/tropy
+funding:
+  - https://buymeacoffee.com/tropy
