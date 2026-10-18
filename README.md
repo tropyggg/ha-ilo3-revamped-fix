@@ -9,6 +9,6 @@ This Home Assistant add-on is a specialized secure web proxy designed specifical
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40px" width="150px">
 </a>
 
-<img src="screenshot" width="300" />
+<img src="screenshot" width="25" />
 
 [screenshot]: https://raw.githubusercontent.com/tropyggg/ha-ilo3-revamped-fix/refs/heads/main/logo.png
