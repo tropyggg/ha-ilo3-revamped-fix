@@ -12,4 +12,4 @@ This Home Assistant add-on is a specialized secure web proxy designed specifical
 
 <img src="screenshot" width="25" />
 
-[screenshot]: https://raw.githubusercontent.com/tropyggg/ha-ilo3-revamped-fix/refs/heads/main/logo.png
+[screenshot]: https://raw.githubusercontent.com/tropyggg/ha-ilo3-revamped-fix/refs/heads/main/logo.png #width=20px
